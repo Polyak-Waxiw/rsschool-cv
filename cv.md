@@ -22,3 +22,9 @@ function multiply(a, b){
 function multiply(a, b){
 return  a * b
 }
+## Work experience
+*CV compilation*
+## Education
+*I studied at Pskov State University in the direction of electric power and electrical engineering. And also took quick courses in plumbing and electrics.*
+## Language
+*My level of English is **Independent User***
