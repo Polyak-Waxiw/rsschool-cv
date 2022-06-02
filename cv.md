@@ -4,7 +4,7 @@
 *Telegram:* https://t.me/Maksim_k0
 *Discord: Polyakov Maxim (@Polyak-Waxiw)*
 ## Brief information about me
-*I strive to learn new things and try to develop in many directions. I set myself the goal of finding a good, suitable job with a decent salary. *
+*I strive to learn new things and try to develop in many directions. I set myself the goal of finding a good, suitable job with a decent salary.*
 One of my greatest strengths is **perseverance**, **hard work** and **responsibility**
 ## My Skills
  1. Critical thinking
