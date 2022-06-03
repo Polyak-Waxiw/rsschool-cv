@@ -1,1 +1,1 @@
-https://Polyak-Waxiw.github.io/rsschool-cv/cv
+https://Polyak-Waxiw.github.io/rsschool-cv/
